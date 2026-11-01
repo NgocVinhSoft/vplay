@@ -407,3 +407,6 @@ https://vmttv.dpdns.org/tv360/?id=tv360-10
 #EXTINF:-1 tvg-id="tv360plus11" group-title="Sự Kiện TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2025/09/30/16/175922342147/3c89be41fe63_640_360.png", TV360+11(DP)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=tv360-11
+#EXTINF:-1 tvg-id="phim" group-title="phim" tvg-logo="https://static-cgv.vncdn.vn/media/catalog/product/cache/1/image/c5f0a1eff4c394a251036189ccddaacd/3/5/350x495-tbn.jpg", TRẠI BUÔN NGƯỜI
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://stream.alostream.site/stream/1790952879_Tr___i_Bu__n_Ng_____i.m3u8
