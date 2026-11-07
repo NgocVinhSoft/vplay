@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://epg.io.vn/epgu.xml"
 #EXTM3U url-tvg="https://lichphatsong.site/schedule/epg.xml"
 #EXTM3U x-tvg-url="https://vnepg.site/epg.xml, https://vnepg.site/epgu.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1"
-#EXTINF:-1 tvg-id="vtv1-hd" group-title="VTV" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://r2.epg.io.vn/2026-09-17/1.png",VTV1 HD
+#EXTINF:-1 tvg-id="vtv1-hd" group-title="VTV" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://img-evg1.tv360.vn/image1/2026/09/10/15/1789027955396/02dce36fc3ff_480_270.png",VTV1 HD
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv1/master.m3u8
 #https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv1-hd/KenhCoBan.m3u8
 #EXTINF:-1 tvg-id="vtv2-hd" group-title="VTV" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://r2.epg.io.vn/2026-09-17/2.png",VTV2 HD
