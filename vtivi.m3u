@@ -76,7 +76,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=192
 #EXTINF:-1 group-title="HTV" tvg-logo="https://img-evg1.tv360.vn/image1/2026/04/20/15/1776673483732/71e6c03ac958_480_270.png",HTV4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 10.0) AppleWebKit/537.36 (KHTML, like Gecko) 130.0.6723.116/10.0 TV Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?vid=9
-#EXTINF:-1 group-title="HTV" tvg-logo="https://images.fptplay53.net/media/channels/OTT/2026/04/09/icon_channel_htv5-bchannel_177575159133.jpg",HTV5 Bchannel
+#EXTINF:-1 group-title="HTV" tvg-logo="https://img-evg1.tv360.vn/image1/2026/04/19/17/1776592892204/faf411a67b05_480_270.png",HTV5 Bchannel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 10.0) AppleWebKit/537.36 (KHTML, like Gecko) 130.0.6723.116/10.0 TV Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?vid=151
 #EXTINF:-1 group-title="HTV" tvg-logo="https://img-evg1.tv360.vn/image1/2020_09_23/1600822381421/47d2615f6141_480_270.png",HTV7 
