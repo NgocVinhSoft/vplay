@@ -1,6 +1,8 @@
 {
-  "version": "1.1.50",
-  "versionCode": 50,
-  "notes": "⚡ Tăng 50% tốc độ nạp & chuyển kênh Live TV\n🎨 Giao diện Quick Sidebar mới tối ưu D-pad\n🐛 Sửa lỗi dính khung hình & màn hình đen VOD",
-  "apkUrl": "https://github.com/NgocVinhSoft/vplay/raw/refs/heads/main/vplay-iptv.apk"
+    "version":  "1.0.1",
+    "versionCode":  6,
+    "notes":  "Bản phát hành đầu tiên của Vplay Android TV.",
+    "apkUrl":  "https://raw.githubusercontent.com/NgocVinhSoft/vplay/main/vplay-iptv.apk",
+    "sha256":  "6a3ae57668bda56423184e1e37ae6180ad5a975423f7b84e36e50ee48a8b551d",
+    "sizeBytes":  18548310
 }
