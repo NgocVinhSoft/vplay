@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.3",
-    "versionCode":  8,
+    "version":  "1.0.4",
+    "versionCode":  9,
     "notes":  "🎨 Giao diện hiện đại: Thiết kế trực quan, đẹp mắt, tối ưu trải nghiệm trên màn hình TV.\n📺 Xem truyền hình: Thưởng thức các kênh truyền hình trực tuyến dễ dàng, tiện lợi.\n🎬 Kho phim giải trí: Khám phá và thưởng thức nội dung phim phong phú ngay trên TV.\n🚀 Trải nghiệm mượt mà: Tối ưu hiệu suất, thao tác đơn giản bằng điều khiển từ xa.\n⚡ Dễ dàng sử dụng: Điều hướng nhanh chóng, tìm kiếm và truy cập nội dung thuận tiện.",
     "apkUrl":  "https://raw.githubusercontent.com/NgocVinhSoft/vplay/main/vplay-iptv.apk",
-    "sha256":  "d5c1ce81250b15adc95efb27160e2641a993ff9d5e8151da72ed4762cf07f496",
-    "sizeBytes":  18548317
+    "sha256":  "8c0bd37de1ed357ad2b468ee50875afc549fd1145cbc1ca487b47a24bb5685b0",
+    "sizeBytes":  18548332
 }
