@@ -323,7 +323,7 @@ https://vmttv.dpdns.org/VTVGo/?sctv21
 https://vmttv.dpdns.org/VTVGo/?sctvphim
 #EXTINF:-1 tvg-id="babysharktv" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/SbBKr8L.png", Baby Shark TV
 https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="babytvhd" group-title="Quốc Tế" tvg-logo="https://www.babytv.com/app/uploads/2019/12/LogoBabyTV-2019.png", BabyTV
+#EXTINF:-1 tvg-id="babytvhd" group-title="Quốc Tế" tvg-logo="https://hd1.xemtv.net/image/babytv.png", BabyTV
 https://kbsnkids.gscdn.kbs.co.kr/kbsnkids-01/kbsnkids-01_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNua2lkcy5nc2Nkbi5rYnMuY28ua3Iva2JzbmtpZHMtMDEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NTQwNjAyOH19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=aOLtD~jypsZrufAoFdEIMhi2LjurP9xDIJoWdkNzYYWNJNjQmYxbRjqrhlWwLk0Fp2DJaQIvd9Ymwew9Xhyjy7g4AfREAsDgkFIzdNJTNImRYAPNRptNY6wtO241c7srwae5EDDwuMciFKdsWz6Hx9FyPONeOG6kNAA6LJatqu0E0WWmecABHer~1bWt0VVKcphuKPEhsM5yL2IxmlqcfJP08QqHwJCsJqDIbMb1oZ3HfVrUz7PeJeSIbbGkegYddOvi70X9HSBp~pqfF1fQgLTIUcqae6dFjiLhSnMWcXMnUj5-ZYsafKDScf1dgVQ4klyJKGlKW4uGeZKj8J4rqg__
 #EXTINF:-1 tvg-id="tv360plus9" group-title="Sự Kiện TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2024/09/30/22/1727709197325/1be646ba55c5_640_360.png", TV360+9(DP)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
