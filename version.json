@@ -1,9 +1,9 @@
 {
-    "version":  "1.0.33",
-    "versionCode":  33,
+    "version":  "1.0.34",
+    "versionCode":  34,
     "notes":  "🎬 Nâng cấp trình phát phim: tự khôi phục mạng \u0026 giữ vị trí khi đổi nguồn.\n✨ Cải thiện giao diện và tối ưu điều khiển D-pad trên TV.\n🐞 Sửa lỗi và tăng độ ổn định toàn ứng dụng.",
     "apkUrl":  "https://raw.githubusercontent.com/NgocVinhSoft/vplay/main/vplay-iptv.apk",
-    "sha256":  "8d66b027f2c45cfd3310f56cc440e904d6ce332610071b113dbcc9328f0aaa2d",
-    "sizeBytes":  5746522,
+    "sha256":  "082fa42b0d2f423f6045a9d1de60ef9af217d76c6980f6040f9e558efae82c39",
+    "sizeBytes":  5746514,
     "vplay2ApiUrl":  "https://vplay-admin-trial.onrender.com"
 }
